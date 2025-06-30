@@ -217,7 +217,11 @@ To improve and expand the dashboard, the following steps are recommended:
 
 In conclusion, this Power BI dashboard helps explore and understand Netflix’s movie content in a meaningful way. It provides valuable insights into:
 
-What content viewers like
+What content viewers lik eWhich genres perform best
+
+Country-level contribution to Netflix
+
+Which movies are most popular and well-rated 
 
 
 
@@ -258,8 +262,4 @@ What content viewers like
   </div>
 </div>
 
-Which genres perform best
-
-Country-level contribution to Netflix
-
-Which movies are most popular and well-rated
+sakshamyadav809@gmail.com
