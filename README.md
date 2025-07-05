@@ -256,7 +256,7 @@ Which movies are most popular and well-rated
     <a href="https://mail.google.com/mail/u/0/?hl=en#inbox?compose=new">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href=""S:\x.cvPDF.pptx"" target="_blank">
+    <a href="S:\x.cvPDF.pptx" target="_blank">
       <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
     </a>
   </div>
