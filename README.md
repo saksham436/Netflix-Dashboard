@@ -247,14 +247,12 @@ Which movies are most popular and well-rated
     <a href="mailto:sakshamyadav809@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://raw.githubusercontent.com/your-username/resume/main/Saksham_Resume.pdf" download>
+    <a href="https://github.com/saksham436/Resume/blob/main/x.rm1.pdf" download>
       <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
     </a>
   </div>
 </div>
 
-<a href="https://raw.githubusercontent.com/your-username/resume/main/Saksham_Resume.pdf" download>
-  ⬇ Download Resume
-</a>
+
 
 
